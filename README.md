@@ -18,7 +18,7 @@ If you look at the last question on the Props section, you will have an example 
 
 ## Getting Started with the Project
 
-### 1. **Dependency Installation & Startup Development Server**:
+### Dependency Installation & Startup Development Server:
 
 Once cloned, navigate to the project's root directory and this project uses npm (Node Package Manager) to manage its dependencies.
 
