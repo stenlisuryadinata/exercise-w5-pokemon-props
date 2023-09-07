@@ -22,7 +22,7 @@ If you look at the last question on the Props section, you will have an example 
 
 Once cloned, navigate to the project's root directory and this project uses npm (Node Package Manager) to manage its dependencies.
 
-The below command is a combination of installing dependencies, opening up the project on VS Code and it will run a development server on your terminal.
+The command below is a combination of installing dependencies, opening up the project on VS Code and it will run a development server on your terminal.
 
 ```bash
 npm i && code . && npm run dev
